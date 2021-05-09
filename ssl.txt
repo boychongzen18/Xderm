@@ -1,0 +1,24 @@
+host=akun_stb_openwrt.boychongen.cf
+port=443
+pudp=7300
+user=stbopenwrt
+pass=abc123
+sni=xxxxxxxxxx
+mode=0
+
+===================================
+EXPIRE ACCOUNT: 02 Mei 2021
+====== Setting Xderm GUI & CLI =====
+Note Khusus Injek Mode
+1. SSL ganti 0
+2. V2ray ganti 1
+3. Trojan ganti 2
+
+====== Injek Toosl Termux =====
+
+ssh root@192.168.1.1
+
+nano config.txt
+
+xderm-mini start
+
