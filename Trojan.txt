@@ -3,11 +3,14 @@ port=xxx
 pudp=7300
 user=xxxxxxxxxxx
 pass=xxxxxx
-sni=play-ti.ytimg.com
+sni=xxxxxxxxxx
 trojan://6ec0dc20-ae05-11eb-b707-1239d0255272@akun_trojan.boychongen.cf:443
 mode=2
-===================================
-EXPIRE ACCOUNT: 02 Mei 2021
+
+====================================
+Creator Boychongzen aka Xroot
+EXPIRE ACCOUNT : 
+====================================
 ====== Setting Xderm GUI & CLI =====
 Note Khusus Injek Mode
 1. SSL ganti 0
