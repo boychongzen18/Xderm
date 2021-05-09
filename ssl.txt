@@ -6,8 +6,10 @@ pass=abc123
 sni=xxxxxxxxxx
 mode=0
 
-===================================
-EXPIRE ACCOUNT: 02 Mei 2021
+====================================
+Creator Boychongzen aka Xroot
+EXPIRE ACCOUNT : 
+====================================
 ====== Setting Xderm GUI & CLI =====
 Note Khusus Injek Mode
 1. SSL ganti 0
