@@ -1,4 +1,4 @@
-# STB Openwrt Status Xderm GUI
+# STB Openwrt Status Xderm GUI & CLI
 
 # Xderm CLI Mode SSL 
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/cli.jpg)
