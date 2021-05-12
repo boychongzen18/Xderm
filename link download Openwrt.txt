@@ -1,0 +1,12 @@
+Link Fw Openwrt
+
+
+Download Via GoogleDrive
+
+https://drive.google.com/file/d/1Ba3pM_gO7GCllRtZSbsHLkejRdplpP2I/view?usp=drivesdk
+
+
+Download Via MediaFire
+
+https://www.mediafire.com/file/4kq29ilco71jke6/Openwrt-19.07.4-s905x-K_5.7.2.-Rev.3.1.img.xz/file
+
