@@ -10,4 +10,6 @@ Eksekusi
  ssh root@192.168.1.1
  pwd : root
 
+ opkg install xderm-trigger*.ipk
+
 
