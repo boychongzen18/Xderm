@@ -12,7 +12,7 @@
 
  Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://youtu.be/LovrEwgkdU4
+Tutorial Install Xderm-Trigger : 
 
 My Website    : https://hackingforlive.wordpress.com
 
