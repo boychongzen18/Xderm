@@ -1,0 +1,13 @@
+
+Cara Install xderm trigger di STB Openwrt
+
+Eksekusi 
+
+1. Download file xderm-trigger
+2. Install Apk Mobile SFTP
+3. Masuk Ke Terminal
+
+ ssh root@192.168.1.1
+ pwd : root
+
+
