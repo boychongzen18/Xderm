@@ -14,6 +14,9 @@ https://www.mediafire.com/file/4kq29ilco71jke6/Openwrt-19.07.4-s905x-K_5.7.2.-Re
 
 https://www.mediafire.com/file/1dupv5esb0tnbr7/Openwrt-19.07.4-s905x-K_5.7.2.-Rev.3.2.img.xz/file
 
+https://www.mediafire.com/file/ao8s6a5k92r4qy1/openwrt_s905x_v5.4.118_AP-Edition.img.xz/file
+
+
 
 https://www.mediafire.com/file/hccisia8hum7g2c/STB+Stabil+dan+cocok.zip/file
 
