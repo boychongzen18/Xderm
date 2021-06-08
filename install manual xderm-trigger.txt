@@ -12,4 +12,12 @@ Eksekusi
 
  opkg install xderm-trigger*.ipk
 
+ reboot
+
+
+
+Creator Boychongzen aka Xroot
+
+
+
 
