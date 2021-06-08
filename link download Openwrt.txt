@@ -1,5 +1,9 @@
 Creator Boychongzen aka Xroot
 
+STB Openwrt Support All Version
+1. STB HG680P Ram2 Support All fw
+2. STB B860H Ram1 v.1 Support fw 18.06.2 & Kernel v.3
+
 Link Fw Openwrt
 
 
@@ -20,3 +24,7 @@ https://www.mediafire.com/file/ao8s6a5k92r4qy1/openwrt_s905x_v5.4.118_AP-Edition
 
 https://www.mediafire.com/file/hccisia8hum7g2c/STB+Stabil+dan+cocok.zip/file
 
+
+
+
+Creator Boychongzen aka Xroot
