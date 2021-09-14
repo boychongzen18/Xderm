@@ -1,13 +1,13 @@
 # STB Openwrt Status Xderm GUI & CLI
 
 # Xderm CLI Mode SSL 
-![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/cli.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Xderm/main/cli.jpg)
 
 # Xderm GUI Mode SSL 
-![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/ssl.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Xderm/main/ssl.jpg)
 
 # Xderm GUI Mode Trojan
-![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/trojan.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Xderm/main/trojan.jpg)
 
 
  Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
